@@ -22,7 +22,7 @@
 
 # import tabula
 #
-file = "payslips/W_E_13_Dec_2020.pdf"
+file = "payslips/W_E_20_Dec_2020.pdf"
 #
 # tables = tabula.read_pdf(file, pages = "all", multiple_tables = True)
 # # output just the first table in the PDF to a CSV
